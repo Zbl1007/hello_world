@@ -1,2 +1,3 @@
 # hello_world
-just try!
+just try！
+存一些好玩的东西
